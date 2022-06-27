@@ -1,7 +1,6 @@
 /*
  * Alexander Cramer
- * OOP Java CIS 2151
- * Project 1
+ * Message Encryption
  */
 
 
